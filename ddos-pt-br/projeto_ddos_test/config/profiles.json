@@ -1,0 +1,7 @@
+{
+  "healthcheck": {
+    "description": "Verificacao controlada de disponibilidade",
+    "max_requests": 10,
+    "requests_per_second": 1
+  }
+}
